@@ -7,8 +7,8 @@
 
 ![Preview](./asset/image/Preview%20.png)
 
-- Live Demo: https://meysamfaizi.github.io/T01-Meysam-Faizi/
-- Repository: https://github.com/meysamfaizi/T01-Meysam-Faizi
+- Live Demo: https://meysamfaizi.github.io/T02-Meysam-Faizi/
+- Repository: https://github.com/meysamfaizi/T02-Meysam-Faizi
 
 ## Overview
 
